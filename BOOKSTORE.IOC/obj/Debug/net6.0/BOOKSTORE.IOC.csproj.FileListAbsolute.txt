@@ -1,0 +1,17 @@
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\bin\Debug\net6.0\BOOKSTORE.IOC.deps.json
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\bin\Debug\net6.0\BOOKSTORE.IOC.runtimeconfig.json
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\bin\Debug\net6.0\BOOKSTORE.IOC.dll
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\bin\Debug\net6.0\BOOKSTORE.IOC.pdb
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\bin\Debug\net6.0\BOOKSTORE.DOMAIN.dll
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\bin\Debug\net6.0\BOOKSTORE.DOMAIN.pdb
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.csproj.AssemblyReference.cache
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.AssemblyInfoInputs.cache
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.AssemblyInfo.cs
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.csproj.CoreCompileInputs.cache
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.csproj.CopyComplete
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.dll
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\refint\BOOKSTORE.IOC.dll
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.pdb
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\BOOKSTORE.IOC.genruntimeconfig.cache
+D:\Projetos\POO2\DDD\BookStore\BOOKSTORE\BOOKSTORE.IOC\obj\Debug\net6.0\ref\BOOKSTORE.IOC.dll
