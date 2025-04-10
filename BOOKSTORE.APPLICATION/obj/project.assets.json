@@ -1945,23 +1945,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\heart\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\W3\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\POO2\\DDD\\BookStore\\BOOKSTORE\\BOOKSTORE.APPLICATION\\BOOKSTORE.APPLICATION.csproj",
+      "projectUniqueName": "D:\\Projetos\\Study\\DOTNET\\bookstore\\BOOKSTORE.APPLICATION\\BOOKSTORE.APPLICATION.csproj",
       "projectName": "BOOKSTORE.APPLICATION",
-      "projectPath": "E:\\Projetos\\POO2\\DDD\\BookStore\\BOOKSTORE\\BOOKSTORE.APPLICATION\\BOOKSTORE.APPLICATION.csproj",
-      "packagesPath": "C:\\Users\\heart\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\POO2\\DDD\\BookStore\\BOOKSTORE\\BOOKSTORE.APPLICATION\\obj\\",
+      "projectPath": "D:\\Projetos\\Study\\DOTNET\\bookstore\\BOOKSTORE.APPLICATION\\BOOKSTORE.APPLICATION.csproj",
+      "packagesPath": "C:\\Users\\W3\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\Study\\DOTNET\\bookstore\\BOOKSTORE.APPLICATION\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\heart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\W3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1970,18 +1972,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projetos\\POO2\\DDD\\BookStore\\BOOKSTORE\\BOOKSTORE.DOMAIN\\BOOKSTORE.DOMAIN.csproj": {
-              "projectPath": "E:\\Projetos\\POO2\\DDD\\BookStore\\BOOKSTORE\\BOOKSTORE.DOMAIN\\BOOKSTORE.DOMAIN.csproj"
+            "D:\\Projetos\\Study\\DOTNET\\bookstore\\BOOKSTORE.DOMAIN\\BOOKSTORE.DOMAIN.csproj": {
+              "projectPath": "D:\\Projetos\\Study\\DOTNET\\bookstore\\BOOKSTORE.DOMAIN\\BOOKSTORE.DOMAIN.csproj"
             },
-            "E:\\Projetos\\POO2\\DDD\\BookStore\\BOOKSTORE\\BOOKSTORE.IOC\\BOOKSTORE.IOC.csproj": {
-              "projectPath": "E:\\Projetos\\POO2\\DDD\\BookStore\\BOOKSTORE\\BOOKSTORE.IOC\\BOOKSTORE.IOC.csproj"
+            "D:\\Projetos\\Study\\DOTNET\\bookstore\\BOOKSTORE.IOC\\BOOKSTORE.IOC.csproj": {
+              "projectPath": "D:\\Projetos\\Study\\DOTNET\\bookstore\\BOOKSTORE.IOC\\BOOKSTORE.IOC.csproj"
             }
           }
         }
@@ -1990,11 +1991,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2016,7 +2012,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
