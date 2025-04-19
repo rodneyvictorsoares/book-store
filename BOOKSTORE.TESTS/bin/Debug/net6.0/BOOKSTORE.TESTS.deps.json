@@ -2130,7 +2130,10 @@
           "BOOKSTORE.IOC": "1.0.0"
         },
         "runtime": {
-          "BOOKSTORE.APPLICATION.dll": {}
+          "BOOKSTORE.APPLICATION.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "BOOKSTORE.APPLICATION.dll": {}
@@ -2138,7 +2141,10 @@
       },
       "BOOKSTORE.DOMAIN/1.0.0": {
         "runtime": {
-          "BOOKSTORE.DOMAIN.dll": {}
+          "BOOKSTORE.DOMAIN.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "BOOKSTORE.DOMAIN.dll": {}
@@ -2150,7 +2156,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25"
         },
         "runtime": {
-          "BOOKSTORE.IOC.dll": {}
+          "BOOKSTORE.IOC.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "BOOKSTORE.IOC.dll": {}
@@ -2163,7 +2172,10 @@
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
-          "BOOKSTORE.WEB.dll": {}
+          "BOOKSTORE.WEB.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "BOOKSTORE.WEB.dll": {}

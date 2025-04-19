@@ -22,3 +22,15 @@ D:\Projetos\Study\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.D
 D:\Projetos\Study\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\refint\BOOKSTORE.DOMAIN.dll
 D:\Projetos\Study\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.DOMAIN.pdb
 D:\Projetos\Study\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\ref\BOOKSTORE.DOMAIN.dll
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\bin\Debug\net6.0\BOOKSTORE.DOMAIN.deps.json
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\bin\Debug\net6.0\BOOKSTORE.DOMAIN.dll
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\bin\Debug\net6.0\BOOKSTORE.DOMAIN.pdb
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.DOMAIN.AssemblyInfoInputs.cache
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.DOMAIN.AssemblyInfo.cs
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.DOMAIN.sourcelink.json
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.DOMAIN.dll
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\refint\BOOKSTORE.DOMAIN.dll
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\BOOKSTORE.DOMAIN.pdb
+C:\Projetos\DOTNET\bookstore\BOOKSTORE.DOMAIN\obj\Debug\net6.0\ref\BOOKSTORE.DOMAIN.dll
