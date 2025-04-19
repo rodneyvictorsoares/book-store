@@ -465,7 +465,10 @@
       },
       "BOOKSTORE.DOMAIN/1.0.0": {
         "runtime": {
-          "BOOKSTORE.DOMAIN.dll": {}
+          "BOOKSTORE.DOMAIN.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "BOOKSTORE.IOC/1.0.0": {
@@ -474,7 +477,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25"
         },
         "runtime": {
-          "BOOKSTORE.IOC.dll": {}
+          "BOOKSTORE.IOC.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

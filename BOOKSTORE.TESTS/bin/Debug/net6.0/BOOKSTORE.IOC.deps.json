@@ -491,7 +491,10 @@
       },
       "BOOKSTORE.DOMAIN/1.0.0": {
         "runtime": {
-          "BOOKSTORE.DOMAIN.dll": {}
+          "BOOKSTORE.DOMAIN.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
